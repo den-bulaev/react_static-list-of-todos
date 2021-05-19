@@ -1,0 +1,1 @@
+{"version":3,"sources":["User.scss"],"names":[],"mappings":"AAAA,MACE,WAAY,CACZ,cAAgB,CAFlB,YAKI,qBAAsB,CACtB,cAAe,CACf,iBAAkB,CAClB,kBAAmB","file":"main.b16ca128.chunk.css","sourcesContent":[".name {\n  padding: 5px;\n  transition: 0.5s;\n\n  &:hover {\n    background-color: pink;\n    cursor: pointer;\n    font-style: italic;\n    border-radius: 10px;\n  }\n}\n"]}
